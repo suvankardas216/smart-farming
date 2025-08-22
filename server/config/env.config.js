@@ -4,7 +4,6 @@ dotenv.config();
 import zod from "zod";
 
 const envSchema = zod.object({
-    PORT: zod.string().default(3000),
     MONGO_URI: zod.string(),
     JWT_SECRET: zod.string(),
     CLOUD_NAME: zod.string(),

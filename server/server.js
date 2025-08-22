@@ -24,15 +24,13 @@ import cropRoutes from "./routes/cropRoutes.js";
 import labRoutes from "./routes/labRoutes.js";
 import farmAnalyticsRoutes from "./routes/FarmAnalyticsRoutes.js";
 
-import { env } from "./config/env.config.js";
-
 import fs from "fs";
 import path from "path";
 
 connectDB();
 
 const app = express();
-
+const port=3000;
 
 // Middlewares
 app.use(cors());
@@ -95,6 +93,5 @@ app.get("/", (req, res) => {
     res.send(req.lang.welcome);
 });
 
-// Server
-const PORT = env.PORT;
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
+app.listen(port, () => console.log(`Server running on port ${port}`));
