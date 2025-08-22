@@ -4,6 +4,7 @@ import { useState } from "react"
 import { AuthContext } from "../context/AuthContext"
 import { useContext } from "react"
 import axiosInstance from "../utils/axiosInstance"
+import axios from "axios"
 
 const PestDetection = () => {
     const { user } = useContext(AuthContext)
@@ -28,20 +29,30 @@ const PestDetection = () => {
 
         try {
             const formData = new FormData()
-            formData.append("image", image)
+            formData.append("image", image) // must match multer field name
 
-            const res = await axiosInstance.post("/detection", formData, {
-                headers: { Authorization: `Bearer ${user.token}` },
-            })
+            // POST to full URL if needed
+            const res = await axios.post(
+                `${import.meta.env.VITE_API_URL}/detection`,
+                formData,
+                {
+                    headers: {
+                        Authorization: `Bearer ${user.token}`,
+                        // do NOT set 'Content-Type'; Axios handles it for FormData
+                    },
+                }
+            )
 
             setDetection(res.data.detection)
         } catch (err) {
-            console.error(err)
-            alert("Detection failed. Try again!")
+            console.error(err.response?.data || err.message)
+            alert(err.response?.data?.message || "Detection failed. Try again!")
         } finally {
             setLoading(false)
         }
     }
+
+
 
     return (
         <div className="min-h-screen flex flex-col mt-15 bg-gradient-to-br from-slate-900 via-gray-900 to-slate-900">
