@@ -1,0 +1,242 @@
+[
+    {
+        "name": "PM-Kisan Samman Nidhi (PM-KISAN)",
+        "description": "₹6,000/year to eligible farmers, credited in 3 installments directly via DBT.",
+        "link": "https://pmkisan.gov.in/",
+        "category": "Income Support"
+    },
+    {
+        "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "description": "Crop insurance to cover risks due to natural calamities, pests, and diseases.",
+        "link": "https://pmfby.gov.in/",
+        "category": "Insurance & Risk Management"
+    },
+    {
+        "name": "PM KUSUM Scheme",
+        "description": "Supports farmers to install solar irrigation pumps and grid-connected renewable power plants.",
+        "link": "https://mnre.gov.in/solar/schemes/",
+        "category": "Energy & Technology"
+    },
+    {
+        "name": "Rashtriya Krishi Vikas Yojana (RKVY-RAFTAAR)",
+        "description": "Promotes agri-infra, entrepreneurship, and innovation in farming practices.",
+        "link": "https://rkvy.nic.in/",
+        "category": "Infrastructure Development"
+    },
+    {
+        "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+        "description": "Encourages organic farming by forming 50-acre clusters with financial support.",
+        "link": "https://pgsindia-ncof.gov.in/pkvy/index.aspx",
+        "category": "Organic & Sustainable Farming"
+    },
+    {
+        "name": "Kisan Credit Card (KCC)",
+        "description": "Provides credit facility for farmers to meet cultivation and investment needs at low interest rates.",
+        "link": "https://www.myscheme.gov.in/schemes/kcc",
+        "category": "Credit & Finance"
+    },
+    {
+        "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+        "description": "Expands irrigation coverage and improves water use efficiency with 'Per Drop More Crop' approach.",
+        "link": "https://pmksy.gov.in/",
+        "category": "Water Management & Irrigation"
+    },
+    {
+        "name": "Mission for Integrated Development of Horticulture (MIDH)",
+        "description": "Holistic development of horticulture sector covering fruits, vegetables, root crops, and spices.",
+        "link": "https://midh.gov.in/",
+        "category": "Crop Production & Development"
+    },
+    {
+        "name": "National Food Security Mission (NFSM)",
+        "description": "Increases production and productivity of rice, wheat, pulses, and coarse cereals.",
+        "link": "https://nfsm.gov.in/",
+        "category": "Crop Production & Development"
+    },
+    {
+        "name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+        "description": "Promotes farm mechanization through subsidies on agricultural machinery and implements.",
+        "link": "https://agrimachinery.nic.in/",
+        "category": "Mechanization & Equipment"
+    },
+    {
+        "name": "Agriculture Infrastructure Fund (AIF)",
+        "description": "Medium-long term debt financing for post-harvest infrastructure with ₹1 lakh crore corpus.",
+        "link": "https://www.nabard.org/",
+        "category": "Infrastructure Development"
+    },
+    {
+        "name": "National Livestock Mission (NLM)",
+        "description": "Sustainable development of livestock sector focusing on entrepreneurship and employment.",
+        "link": "https://dahd.nic.in/",
+        "category": "Livestock & Dairy"
+    },
+    {
+        "name": "Blue Revolution (Neel Kranti)",
+        "description": "Integrated development and management of fisheries for economic prosperity.",
+        "link": "https://dof.gov.in/",
+        "category": "Fisheries & Aquaculture"
+    },
+    {
+        "name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+        "description": "Fisheries development with ₹20,050 crore investment over 5 years.",
+        "link": "https://pmmsy.dof.gov.in/",
+        "category": "Fisheries & Aquaculture"
+    },
+    {
+        "name": "Electronic National Agriculture Market (e-NAM)",
+        "description": "Online trading platform for agricultural commodities to provide better price discovery.",
+        "link": "https://enam.gov.in/",
+        "category": "Marketing & Trade"
+    },
+    {
+        "name": "Pradhan Mantri Formalization of Micro Food Processing Enterprises (PMFME)",
+        "description": "Support for upgrading micro food processing enterprises with ₹10,000 crore investment.",
+        "link": "https://www.mofpi.gov.in/",
+        "category": "Processing & Value Addition"
+    },
+    {
+        "name": "Interest Subvention Scheme",
+        "description": "Provides short-term crop loans to farmers at subsidized interest rates of 4% per annum.",
+        "link": "https://fasalrin.gov.in/",
+        "category": "Credit & Finance"
+    },
+    {
+        "name": "National Beekeeping & Honey Mission (NBHM)",
+        "description": "Promotes scientific beekeeping and increases honey production and productivity.",
+        "link": "https://nbhm.kvk.org.in/",
+        "category": "Allied Agriculture"
+    },
+    {
+        "name": "Soil Health Card Scheme",
+        "description": "Provides soil health cards to farmers with recommendations for nutrient management.",
+        "link": "https://soilhealth.dac.gov.in/",
+        "category": "Soil & Nutrient Management"
+    },
+    {
+        "name": "National Mission for Sustainable Agriculture (NMSA)",
+        "description": "Promotes sustainable agriculture practices through climate resilient technologies.",
+        "link": "https://nmsa.dac.gov.in/",
+        "category": "Organic & Sustainable Farming"
+    },
+    {
+        "name": "Mahila Kisan Sashaktikaran Pariyojana (MKSP)",
+        "description": "Enhances opportunities for women in agriculture through capacity building and support.",
+        "link": "https://rlm.gov.in/",
+        "category": "Women & Social Welfare"
+    },
+    {
+        "name": "National Mission on Oilseeds and Oil Palm (NMOOP)",
+        "description": "Increases production and productivity of oilseeds and oil palm for edible oil security.",
+        "link": "https://nmoop.gov.in/",
+        "category": "Crop Production & Development"
+    },
+    {
+        "name": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+        "description": "Ensures remunerative prices to farmers through MSP operations and market interventions.",
+        "link": "https://dfpd.gov.in/",
+        "category": "Price Support & Procurement"
+    },
+    {
+        "name": "National Agriculture Market (NAM)",
+        "description": "Creates unified national market for agricultural commodities through e-platform.",
+        "link": "https://enam.gov.in/",
+        "category": "Marketing & Trade"
+    },
+    {
+        "name": "Integrated Watershed Management Programme (IWMP)",
+        "description": "Restores ecological balance through watershed management in rain-fed areas.",
+        "link": "https://dolr.gov.in/",
+        "category": "Water Management & Irrigation"
+    },
+    {
+        "name": "Agricultural Technology Management Agency (ATMA)",
+        "description": "Decentralized extension system for technology dissemination at district level.",
+        "link": "https://extensionreforms.dacnet.nic.in/",
+        "category": "Extension & Training"
+    },
+    {
+        "name": "Digital Agriculture Mission",
+        "description": "Uses digital technology to improve farmers' access to information, services, and markets.",
+        "link": "https://agricoop.nic.in/",
+        "category": "Energy & Technology"
+    },
+    {
+        "name": "National Programme for Dairy Development (NPDD)",
+        "description": "Focuses on productivity enhancement and quality improvement in dairy sector.",
+        "link": "https://www.nddb.coop/",
+        "category": "Livestock & Dairy"
+    },
+    {
+        "name": "Crop Residue Management Scheme",
+        "description": "Promotes in-situ management of crop residue to reduce pollution and improve soil health.",
+        "link": "https://agricoop.nic.in/",
+        "category": "Environmental & Climate"
+    },
+    {
+        "name": "Pradhan Mantri Kisan Maan-Dhan Yojana (PM-KMY)",
+        "description": "Voluntary pension scheme for small and marginal farmers with ₹3,000 monthly pension.",
+        "link": "https://maandhan.in/",
+        "category": "Social Security & Welfare"
+    },
+    {
+        "name": "Weather Based Crop Insurance Scheme (WBCIS)",
+        "description": "Insurance coverage based on weather parameters for quick claim settlement.",
+        "link": "https://pmfby.gov.in/",
+        "category": "Insurance & Risk Management"
+    },
+    {
+        "name": "National Adaptation Fund for Climate Change",
+        "description": "Supports adaptation measures for climate-vulnerable sectors including agriculture.",
+        "link": "https://moef.gov.in/",
+        "category": "Environmental & Climate"
+    },
+    {
+        "name": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM)",
+        "description": "Comprehensive scheme for solar pump installation and grid-connected solar power.",
+        "link": "https://pmkusum.mnre.gov.in/",
+        "category": "Energy & Technology"
+    },
+    {
+        "name": "National Horticulture Board (NHB) Schemes",
+        "description": "Various schemes for horticulture development, processing, and marketing support.",
+        "link": "https://nhb.gov.in/",
+        "category": "Crop Production & Development"
+    },
+    {
+        "name": "Central Sector Scheme on Formation & Promotion of FPOs",
+        "description": "Formation and promotion of 10,000 Farmer Producer Organizations with financial support.",
+        "link": "https://www.nafed.gov.in/",
+        "category": "Cooperative & FPO Development"
+    },
+    {
+        "name": "National Programme for Organic Production (NPOP)",
+        "description": "Promotes organic farming and provides certification for organic produce.",
+        "link": "https://pgsindia-ncof.gov.in/",
+        "category": "Organic & Sustainable Farming"
+    },
+    {
+        "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+        "description": "Provides rural road connectivity to enhance agricultural market access.",
+        "link": "https://pmgsy.nic.in/",
+        "category": "Infrastructure Development"
+    },
+    {
+        "name": "National Rural Employment Guarantee Act (NREGA)",
+        "description": "Provides employment opportunities in rural areas including agricultural activities.",
+        "link": "https://nrega.nic.in/",
+        "category": "Employment & Rural Development"
+    },
+    {
+        "name": "Rashtriya Gokul Mission",
+        "description": "Indigenous cattle breed development and conservation for milk production enhancement.",
+        "link": "https://dahd.nic.in/",
+        "category": "Livestock & Dairy"
+    },
+    {
+        "name": "National Bamboo Mission (NBM)",
+        "description": "Promotes bamboo cultivation and development of bamboo-based enterprises.",
+        "link": "https://nbm.nic.in/",
+        "category": "Allied Agriculture"
+    }
+]

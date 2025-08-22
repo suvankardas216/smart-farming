@@ -1,0 +1,8 @@
+{
+    "welcome": "Welcome to Smart Farming Assistant",
+    "not_authorized": "Not authorized",
+    "resource_not_found": "Resource not found",
+    "post_not_found": "Post not found",
+    "user_banned": "User is banned",
+    "invalid_credentials": "Invalid email or password"
+}
