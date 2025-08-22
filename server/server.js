@@ -32,7 +32,6 @@ import path from "path";
 connectDB();
 
 const app = express();
-const PORT = 3000;
 
 
 // Middlewares
@@ -97,5 +96,5 @@ app.get("/", (req, res) => {
 });
 
 // Server
-
+const PORT = env.PORT;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
