@@ -32,6 +32,8 @@ connectDB();
 const app = express();
 const port=3000;
 
+app.set("trust proxy", 1);
+
 // Middlewares
 app.use(cors());
 app.use(express.json());
@@ -51,7 +53,8 @@ app.use("/uploads", express.static(path.join(process.cwd(), "uploads")));
 // Routes
 app.use("/api", apiLimiter);
 
-app.use("/api/auth", authLimiter, authRoutes);
+// app.use("/api/auth", authLimiter, authRoutes);
+app.use("/api/auth", authRoutes);
 app.use("/api/user", userRoutes);
 app.use("/api/crop-advisory", cropAdvisoryRoutes);
 app.use("/api/weather", weatherRoutes);
